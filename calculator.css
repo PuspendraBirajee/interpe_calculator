@@ -1,0 +1,74 @@
+
+body{
+			margin: 0px;
+			padding: 0px;
+			background-color: black;
+		}
+		.division{
+			width: 267px;
+			height: 400px;
+			border: 1px solid rgb(200, 200, 200);
+			border-radius: 10px;
+			background-color: skyblue;
+
+		}
+		.company{
+			margin: 10px;
+			width: 90%;
+			font-size: 20px;
+			background-color: lightgreen;
+			border-radius: 50px;
+		}
+		.display{
+			margin: 10px;
+			width: 90%;
+			font-size: 25px;
+			border: none;
+			border-radius: 10px;
+			box-shadow: 0px 3px 15px rgba(84, 84, 84, 1.0);
+		}
+		.button_container{
+			display: flex;
+			justify-content: center;
+			flex-wrap: wrap;
+			box-shadow: 0px 3px 15px rgba(50, 50, 50, 1.0);
+		}
+		.button{
+			height: 45px;
+			width: 45px;
+			margin: 5px;
+			border: powerblack;
+			border-radius: 50%;
+			background-color: ;
+		}
+		.equal{
+			height: 45px;
+			width: 45px;
+			margin: 5px;
+			border: powerblack;
+			border-radius: 50%;
+			background-color: hotpink;
+		}
+		.operator{
+			height: 45px;
+			width: 45px;
+			margin: 5px;
+			border: powerblack;
+			border-radius: 50%;
+			background-color: lightyellow;
+		}
+
+		.delete{
+			height: 45px;
+			width: 45px;
+			margin: 5px;
+			border: powerblack;
+			border-radius: 50%;
+			background-color: lightyellow;
+		}
+		p{
+			font-size: 20px;
+			text-align: center;
+			color: powderblue;
+			margin-top: 10px;
+		}
